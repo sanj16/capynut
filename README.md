@@ -49,6 +49,6 @@ I would like to extend my gratitude to following third-party assets and tutorial
 
 ## Contact
 
-If you have any questions or need assistance, you can reach out to me at [sanjana.mandarapu@gmail.com].
+If you have any questions or need assistance, you can reach out to me at sanjana.mandarapu@gmail.com.
 
 Enjoy playing Capynut, and happy delivering!
