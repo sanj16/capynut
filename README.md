@@ -1,6 +1,6 @@
 # Capynut   ![Capynut Logo](https://i.ibb.co/zfCpp8Y/dw.png)
 
-Capynut is a fun 2D game created with Unity that challenges your skills as a delivery driver. In this game, you'll take on the role of a delivery driver, navigating through various obstacles to deliver donuts to Capybaras at various locations. Do you have what it takes to become the ultimate delivery driver?
+Capynut is a fun 2D game created with Unity that challenges your skills as a delivery driver. In this game, you'll take on the role of a delivery driver, navigating through various obstacles to deliver donuts to Capybaras at various locations . Do you have what it takes to become the ultimate delivery driver?
 
 ## Getting Started
 
@@ -40,16 +40,14 @@ We welcome contributions from the community! If you'd like to contribute to Capy
 
 If you encounter any issues while playing Capynut or have suggestions for improvements, please [open an issue](https://github.com/your-username/capynut/issues) on this repository.
 
-## License
-
-[Specify the license you're using for your game. Common choices include MIT License, GNU GPL, or a custom license.]
-
 ## Acknowledgments
 
-[If you used any third-party assets or libraries, give credit to their creators here.]
+I would like to extend my gratitude to following third-party assets and tutorials from Udemy, which were instrumental in the development of Capynut
+- **[Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)** by [Rick Davidson](https://www.udemy.com/user/rick-davidson-5/): This course provided invaluable guidance on Unity game development and served as the foundation for Capynut.
+
 
 ## Contact
 
-If you have any questions or need assistance, you can reach out to me at [your-email@example.com].
+If you have any questions or need assistance, you can reach out to me at [sanjana.mandarapu@gmail.com].
 
 Enjoy playing Capynut, and happy delivering!
