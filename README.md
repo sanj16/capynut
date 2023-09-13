@@ -17,7 +17,8 @@ To play Capynut, follow these simple steps:
 
 ## Gameplay
 
-[Add a brief description of the gameplay and any controls here. You can include screenshots or GIFs to showcase the game.]
+![Gampeplay Screenshot](image.png)
+
 
 ## Features
 
