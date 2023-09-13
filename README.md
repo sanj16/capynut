@@ -1,4 +1,4 @@
-# Capynut   ![Capynut Logo]([logo.png](https://i.ibb.co/zfCpp8Y/dw.png))
+# Capynut   ![Capynut Logo][https://i.ibb.co/zfCpp8Y/dw.png]
 
 Capynut is a fun 2D game created with Unity that challenges your skills as a delivery driver. In this game, you'll take on the role of a delivery driver, navigating through various obstacles to deliver packages to their destinations. Do you have what it takes to become the ultimate delivery driver?
 
