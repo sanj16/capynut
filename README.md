@@ -30,7 +30,7 @@ Contributions are welcome! If you'd like to contribute to Capynut, please follow
 
 ## Issues
 
-If you encounter any issues while playing Capynut or have suggestions for improvements, please [open an issue](https://github.com/your-username/capynut/issues) on this repository.
+If you encounter any issues while playing Capynut or have suggestions for improvements, please [open an issue](https://github.com/sanj16/capynut/issues) on this repository.
 
 ## Acknowledgments
 - **[Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)** by [Rick Davidson](https://www.udemy.com/user/rick-davidson-5/): This course provided invaluable guidance on Unity game development and served as the foundation for Capynut.
