@@ -8,7 +8,7 @@ To play Capynut, follow these simple steps:
 
 1. **Clone the repository** to your local machine:
    ```sh
-   git clone https://github.com/your-username/capynut.git
+   git clone https://github.com/sanj16/capynut.git
    ```
 
 2. Navigate to the "Delivery Driver Assets" folder.
