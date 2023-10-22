@@ -19,18 +19,9 @@ To play Capynut, follow these simple steps:
 
 ![Gameplay Screenshot](https://i.ibb.co/FzC5tLF/screenshot.png)
 
-
-
-## Features
-
-- Exciting delivery challenges.
-- Stunning 2D graphics.
-- Smooth Mechanics
-  
-
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to Capynut, please follow these steps:
+Contributions are welcome! If you'd like to contribute to Capynut, please follow these steps:
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
@@ -42,13 +33,4 @@ We welcome contributions from the community! If you'd like to contribute to Capy
 If you encounter any issues while playing Capynut or have suggestions for improvements, please [open an issue](https://github.com/your-username/capynut/issues) on this repository.
 
 ## Acknowledgments
-
-I would like to extend my gratitude to following third-party assets and tutorials from Udemy, which were instrumental in the development of Capynut
 - **[Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)** by [Rick Davidson](https://www.udemy.com/user/rick-davidson-5/): This course provided invaluable guidance on Unity game development and served as the foundation for Capynut.
-
-
-## Contact
-
-If you have any questions or need assistance, you can reach out to me at sanjana.mandarapu@gmail.com.
-
-Enjoy playing Capynut, and happy delivering!
